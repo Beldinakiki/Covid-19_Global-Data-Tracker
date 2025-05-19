@@ -87,7 +87,7 @@ Case Fatality Rate Disparities: Significant variations in case fatality rates hi
 Population Density Effects: When adjusted for population size, some smaller but densely populated countries showed higher per-capita impacts than larger nations with more absolute cases.
 Data Reliability Challenges: Inconsistent reporting methods and testing capacities across countries created challenges for direct comparisons, emphasizing the need for multiple metrics when assessing impact.
 
-Project Reflections
+⭐⭐Project Reflections
 
 Data Science Value: This project demonstrates how data visualization and analysis can transform raw statistics into meaningful insights for public health decision-making.
 Real-time Data Integration: Working with continuously updated datasets presented both challenges and opportunities for creating relevant, timely analysis.
