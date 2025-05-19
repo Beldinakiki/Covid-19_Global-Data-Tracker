@@ -38,8 +38,8 @@ pip (Python package installer)
 Installation
 
 Clone the repository
-bashgit clone https://github.com/your-username/covid-19-tracker.git
-cd covid-19-tracker
+bashgit clone https://github.com/Beldinakiki/Covid-19_Global-Data-Tracker.git
+cd Covid-19_Global-Data-Tracker
 
 📊 Key Features
 Time Series Charts:
