@@ -35,7 +35,7 @@ Prerequisites
 Python 3.8 or higher
 pip (Python package installer)
 
-Installation
+⭐Installation
 
 Clone the repository
 bashgit clone https://github.com/Beldinakiki/Covid-19_Global-Data-Tracker.git
